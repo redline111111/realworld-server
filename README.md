@@ -4,7 +4,7 @@
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
-Проект выполнен как backend для <a href="[http://nestjs.com/](https://github.com/gothinkster/realworld)" target="blank">RealWorld</a> репозитория, написанный на Nest.js. В качестве базы данных используется PostreSQL в связке с TypeORM.
+Проект выполнен как backend для <a href="https://github.com/gothinkster/realworld" target="blank">RealWorld</a> репозитория, написанный на Nest.js. В качестве базы данных используется PostreSQL в связке с TypeORM.
 
 ## Описание
 
