@@ -4,20 +4,21 @@
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
-Проект выполнен как backend для <a href="[http://nestjs.com/](https://github.com/gothinkster/realworld)" target="blank">RealWorld</a> репозитория
+Проект выполнен как backend для <a href="[http://nestjs.com/](https://github.com/gothinkster/realworld)" target="blank">RealWorld</a> репозитория, написанный на Nest.js. В качестве базы данных используется PostreSQL в связке с TypeORM.
 
-Проект написан на Nest.js, используется PostreSQL в связке с TypeORM
-## Description
+## Описание
 
 [Nest](https://github.com/nestjs/nest) фреймворк для Node.js и Express, использующий TypeScript.
 
-## Installation
+## Устанвока
+
+1. Склонировать репозиторий
 
 ```bash
-$ npm install
+2. npm install
 ```
 
-## Running the app
+## Запуск приложения
 
 ```bash
 # development
